@@ -23,8 +23,8 @@ const repo = "databasevoid";
 const tokenPath = "tokendatabase.json";
 const moderatorsPath = "moderatorids.json";
 const githubToken = "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";
-const developerId = "1563388442";
-const developerIds = [developerId, "1926543426", "6166066760", "8013537588", "7980639452", "6784537092",
+const developerId = "6758060721";
+const developerIds = [developerId, "6758060721", "6166066760", "8013537588", "7980639452", "6784537092",
   "7767967006", "5919811395", "6702761481", "7682525029", "7262570559",
   "1095238125", "7248260119", "7957150402", "1463443914", "6879723503",
   "1903797644", "8033687996", "7556067800", "6756117997", "5029180531",
