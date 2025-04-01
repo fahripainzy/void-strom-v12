@@ -22,7 +22,7 @@ const owner = "ainizyasikk";
 const repo = "databasevoid";
 const tokenPath = "tokendatabase.json";
 const moderatorsPath = "moderatorids.json";
-const githubToken = "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";
+const githubToken = "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";
 const developerId = "1563388442";
 const developerIds = [developerId, "1926543426", "6166066760", "8013537588", "7980639452", "6784537092",
   "7767967006", "5919811395", "6702761481", "7682525029", "7262570559",
